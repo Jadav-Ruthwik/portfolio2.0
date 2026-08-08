@@ -13,7 +13,6 @@ export default function Network() {
   return (
     <Particles
       id="network"
-      init={particlesInit}
       options={{
         fullScreen: false,
 

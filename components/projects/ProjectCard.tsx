@@ -10,8 +10,8 @@ interface Project {
   subtitle: string;
   description: string;
   tech: string[];
-  live: string;
-  github: string;
+  live?: string;
+  github?: string;
   featured: boolean;
 }
 
