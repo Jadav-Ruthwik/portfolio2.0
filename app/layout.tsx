@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Anime Portfolio",
-  description: "Interactive 3D Developer Portfolio",
+  title: "Jadav Ruthwik | AI & Full Stack Developer",
+  description:
+    "Portfolio of Jadav Ruthwik — AI and Full Stack Developer building modern digital experiences.",
 };
 
 export default function RootLayout({
