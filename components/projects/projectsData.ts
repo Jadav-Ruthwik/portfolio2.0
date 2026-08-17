@@ -1,6 +1,26 @@
 export const projects = [
   {
     id: 1,
+    title: "Resolve",
+    subtitle: "Digital Store Support Platform",
+    description:
+      "A digital post-purchase support platform inspired by a real billing issue, connecting customers with store teams to report problems, share supporting evidence, communicate in real time, and track resolution.",
+    tech: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Supabase",
+      "PostgreSQL",
+      "Realtime",
+      "Tailwind CSS",
+    ],
+    live: "https://retail-resolve.vercel.app/",
+    github: "https://github.com/Jadav-Ruthwik/retail-resolve.git",
+    featured: true,
+  },
+
+  {
+    id: 2,
     title: "AI CRM CSV Importer",
     subtitle: "AI-Powered CRM Data Import Tool",
     description:
@@ -20,7 +40,7 @@ export const projects = [
   },
 
   {
-    id: 2,
+    id: 3,
     title: "SmartRent",
     subtitle: "AI-Powered House Rental Platform",
     description:
@@ -33,7 +53,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "SmartSpace",
     subtitle: "AI Interior Design Platform",
     description:
@@ -46,7 +66,7 @@ export const projects = [
   },
 
   {
-    id: 4,
+    id: 5,
     title: "StudySync",
     subtitle: "AI Study Planner",
     description:
@@ -57,7 +77,7 @@ export const projects = [
   },
 
   {
-    id: 5,
+    id: 6,
     title: "Dynamic Desktop Wallpaper",
     subtitle: "Smart Productivity Tool",
     description:
@@ -68,7 +88,7 @@ export const projects = [
   },
 
   {
-    id: 6,
+    id: 7,
     title: "WasteZero",
     subtitle: "Smart Waste Management Platform",
     description:
@@ -81,7 +101,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 8,
     title: "Restaurant Ordering Website",
     subtitle: "Modern Restaurant Platform",
     description:
@@ -93,7 +113,7 @@ export const projects = [
   },
 
   {
-    id: 8,
+    id: 9,
     title: "PalleSiri Dairy Farm",
     subtitle: "Business Website",
     description:
