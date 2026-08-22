@@ -1,6 +1,26 @@
 export const projects = [
   {
     id: 1,
+    title: "TechCareer",
+    subtitle: "Graph-Based Career Intelligence Platform",
+    description:
+      "A graph-powered career intelligence platform that connects developers, skills, jobs, technologies, projects, and career paths to provide personalized skill analysis, career paths, job recommendations, and interactive graph exploration across four developer profiles.",
+    tech: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "CognoDB",
+      "Neo4j",
+      "Cypher",
+      "Tailwind CSS",
+    ],
+    live: "https://techcareer-graph.vercel.app/",
+    github: "https://github.com/Jadav-Ruthwik/techcareer-graph.git",
+    featured: true,
+  },
+
+  {
+    id: 2,
     title: "Resolve",
     subtitle: "Digital Store Support Platform",
     description:
@@ -20,7 +40,7 @@ export const projects = [
   },
 
   {
-    id: 2,
+    id: 3,
     title: "AI CRM CSV Importer",
     subtitle: "AI-Powered CRM Data Import Tool",
     description:
@@ -40,7 +60,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "SmartRent",
     subtitle: "AI-Powered House Rental Platform",
     description:
@@ -53,7 +73,7 @@ export const projects = [
   },
 
   {
-    id: 4,
+    id: 5,
     title: "SmartSpace",
     subtitle: "AI Interior Design Platform",
     description:
@@ -66,7 +86,7 @@ export const projects = [
   },
 
   {
-    id: 5,
+    id: 6,
     title: "StudySync",
     subtitle: "AI Study Planner",
     description:
@@ -77,7 +97,7 @@ export const projects = [
   },
 
   {
-    id: 6,
+    id: 7,
     title: "Dynamic Desktop Wallpaper",
     subtitle: "Smart Productivity Tool",
     description:
@@ -88,7 +108,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 8,
     title: "WasteZero",
     subtitle: "Smart Waste Management Platform",
     description:
@@ -101,7 +121,7 @@ export const projects = [
   },
 
   {
-    id: 8,
+    id: 9,
     title: "Restaurant Ordering Website",
     subtitle: "Modern Restaurant Platform",
     description:
@@ -113,7 +133,7 @@ export const projects = [
   },
 
   {
-    id: 9,
+    id: 10,
     title: "PalleSiri Dairy Farm",
     subtitle: "Business Website",
     description:
