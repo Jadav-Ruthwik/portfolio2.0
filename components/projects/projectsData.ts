@@ -1,6 +1,38 @@
 export const projects = [
   {
     id: 1,
+    title: "PlayPower Airbnb Clone",
+    subtitle: "Airbnb-Style Property Booking Platform",
+    description:
+      "A modern Airbnb-inspired property rental platform that allows users to explore properties, view listings, and interact with a responsive booking-oriented interface.",
+    tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    live: "https://playpower-airbnb-clone-ruthwik.vercel.app/",
+    github: "https://github.com/Jadav-Ruthwik/playpower-airbnb-clone",
+    featured: false,
+  },
+
+  {
+    id: 2,
+    title: "AI Image Quality Analyzer",
+    subtitle: "AI-Powered Image Quality & Defect Detection",
+    description:
+      "An AI-powered computer vision system that analyzes images, detects quality issues, and generates an interpretable image-quality assessment.",
+    tech: [
+      "Python",
+      "FastAPI",
+      "OpenCV",
+      "Scikit-learn",
+      "Random Forest",
+      "SQLite",
+      "Docker",
+    ],
+    live: "https://ai-image-quality-analyzer-ctys.onrender.com/",
+    github: "https://github.com/Jadav-Ruthwik/ai-image-quality-analyzer",
+    featured: false,
+  },
+
+  {
+    id: 3,
     title: "TechCareer",
     subtitle: "Graph-Based Career Intelligence Platform",
     description:
@@ -20,7 +52,7 @@ export const projects = [
   },
 
   {
-    id: 2,
+    id: 4,
     title: "Resolve",
     subtitle: "Digital Store Support Platform",
     description:
@@ -40,7 +72,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 5,
     title: "AI CRM CSV Importer",
     subtitle: "AI-Powered CRM Data Import Tool",
     description:
@@ -60,7 +92,7 @@ export const projects = [
   },
 
   {
-    id: 4,
+    id: 6,
     title: "SmartRent",
     subtitle: "AI-Powered House Rental Platform",
     description:
@@ -73,7 +105,7 @@ export const projects = [
   },
 
   {
-    id: 5,
+    id: 7,
     title: "SmartSpace",
     subtitle: "AI Interior Design Platform",
     description:
@@ -86,7 +118,7 @@ export const projects = [
   },
 
   {
-    id: 6,
+    id: 8,
     title: "StudySync",
     subtitle: "AI Study Planner",
     description:
@@ -97,7 +129,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 9,
     title: "Dynamic Desktop Wallpaper",
     subtitle: "Smart Productivity Tool",
     description:
@@ -108,7 +140,7 @@ export const projects = [
   },
 
   {
-    id: 8,
+    id: 10,
     title: "WasteZero",
     subtitle: "Smart Waste Management Platform",
     description:
@@ -121,7 +153,7 @@ export const projects = [
   },
 
   {
-    id: 9,
+    id: 11,
     title: "Restaurant Ordering Website",
     subtitle: "Modern Restaurant Platform",
     description:
@@ -133,7 +165,7 @@ export const projects = [
   },
 
   {
-    id: 10,
+    id: 12,
     title: "PalleSiri Dairy Farm",
     subtitle: "Business Website",
     description:
