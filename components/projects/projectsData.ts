@@ -6,7 +6,7 @@ export const projects = [
     description:
       "A modern Airbnb-inspired property rental platform that allows users to explore properties, view listings, and interact with a responsive booking-oriented interface.",
     tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    live: "https://playpower-airbnb-clone-ruthwik.vercel.app/",
+    live: "https://playpower-airbnb-clone17.vercel.app/",
     github: "https://github.com/Jadav-Ruthwik/playpower-airbnb-clone",
     featured: false,
   },
